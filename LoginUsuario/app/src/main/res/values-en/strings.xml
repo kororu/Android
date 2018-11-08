@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginUsuario</string>
+    <string name="cancelar">Cancel</string>
+    <string name="aceptar">OK</string>
+    <string name="usuario">User</string>
+    <string name="clave">Pass</string>
+
+
+    <string name="llamar">Call</string>
+    <string name="web">Web</string>
+    <string name="camara">Camera</string>
+    <string name="contacto">Contact</string>
+</resources>

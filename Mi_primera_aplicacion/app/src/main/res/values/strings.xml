@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi_primera_aplicacion</string>
+    <string name="ingrese_correo">correo</string>
+    <string name="ingrese_usuario">usuario</string>
+    <string name="ingrese_nombre">nombre</string>
+    <string name="ingresar">ingresar</string>
+    <string name="ingrece_fecha_de_nacimiento">fecha de nacimiento</string>
+    <string name="contrase_a">contraseña</string>
+</resources>

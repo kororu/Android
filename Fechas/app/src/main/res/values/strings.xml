@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fechas</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="naciste">Naciste el dia </string>
+    <string name="laFechaIngresada">la Fecha ingresada debe ser mayor a la actual </string>
+    <string name="ElFormatoDebeSer">El formato debe ser Dia/Mes/Año </string>
+    <string name="UstedTiene"> usted tiene </string>
+    <string name="Anos"> años </string>
+    <string name="Meses"> meses </string>
+    <string name="Dias"> dias. </string>
+    <string name="Tienes">Tienes </string>
+    <string name="AnosY"> años y </string>
+
+</resources>

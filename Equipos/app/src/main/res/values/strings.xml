@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Administracion de Equipos</string>
+    <string name="etLoginUsuarioHint">Usuario</string>
+    <string name="etLoginClaveHint">Clave</string>
+    <string name="btnLoginIngresar">Ingresar</string>
+    <string name="btnLoginCancelar">Cancelar</string>
+    <string name="tvIngreso">Ingreso</string>
+    <string name="ErrorUsuarioNoExiste">El usuario no existe</string>
+    <string name="ErrorClaveIncorrecta">La clave es incorrecta</string>
+    <string name="ErrorUsuarioVacio">Ingrese un Usuario</string>
+    <string name="ErrorClaveVacia">Ingrese una Clave</string>
+    <string name="tvNombreUsuario">Nombre de Usuario</string>
+    <string name="tvDptoUsuario">Dpto Usuario</string>
+    <string name="tvTituloLista">Equipos a cargo:</string>
+    <string name="btnFinalizar">Finalizar</string>
+    <string name="tvEtqDescEquipo">Descripción:</string>
+    <string name="tvEtqValorEquipo">Valor:</string>
+    <string name="autoTvNroSerieHint">Ingrese N° de serie del Equipo</string>
+    <string name="btnCargarEquipo">Agregar</string>
+    <string name="btnDescargarEquipo">Quitar</string>
+    <string name="tvEtiquetaTotal">Total:</string>
+    <string name="autoTvSerieErrorNoExiste">La serie del Equipo no existe</string>
+    <string name="autoTvSerieErrorYaAsignado">El Equipo ya está asignado a un Usuario</string>
+</resources>

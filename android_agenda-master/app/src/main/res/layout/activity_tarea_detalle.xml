@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TareaDetalle">
+
+    <TextView
+        android:id="@+id/tvIdTarea"
+        android:layout_width="25dp"
+        android:layout_height="21dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/idTarea"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.236"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etDetalleTarea"
+        android:layout_width="351dp"
+        android:layout_height="311dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dtFechaFinTarea" />
+
+    <EditText
+        android:id="@+id/dtFechaFinTarea"
+        android:layout_width="133dp"
+        android:layout_height="39dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="dd/mm/yyyy"
+        android:inputType="date"
+        app:layout_constraintEnd_toStartOf="@+id/chbTerminarTarea"
+        app:layout_constraintHorizontal_bias="0.906"
+        app:layout_constraintStart_toEndOf="@+id/tvLabelFechaFin"
+        app:layout_constraintTop_toBottomOf="@+id/dtFechaInicioTarea" />
+
+    <Button
+        android:id="@+id/btnGuardarCambiosTarea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="44dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/btnGuardarCambiosTarea"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etDetalleTarea" />
+
+    <Button
+        android:id="@+id/btnVolverTarea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:text="@string/btnVolverTarea"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btnGuardarCambiosTarea"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/dtFechaInicioTarea"
+        android:layout_width="135dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        app:layout_constraintStart_toEndOf="@+id/tvLabelFechaIni"
+        app:layout_constraintTop_toBottomOf="@+id/tvIdTarea" />
+
+    <TextView
+        android:id="@+id/tvLabelFechaIni"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:layout_marginStart="28dp"
+        android:text="@string/tvLabelFechaIni"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/dtFechaInicioTarea"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/tvLabelFechaFin"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginStart="28dp"
+        android:text="@string/tvLabelFechaFin"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/dtFechaFinTarea"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <CheckBox
+        android:id="@+id/chbTerminarTarea"
+        android:layout_width="99dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/chbTerminarTarea"
+        app:layout_constraintBaseline_toBaselineOf="@+id/dtFechaFinTarea"
+        app:layout_constraintEnd_toEndOf="parent" />
+</android.support.constraint.ConstraintLayout>

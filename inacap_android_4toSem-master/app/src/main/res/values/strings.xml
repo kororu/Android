@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginUsuario</string>
+    <string name="tvLogin">Login</string>
+    <string name="etUser">User</string>
+    <string name="etPassword">Password</string>
+    <string name="btnConfirmLogin">Confirm</string>
+    <string name="btnCleanLogin">Clean</string>
+    <string name="tvRegisterLogin">Don\'t have account? Register here.</string>
+    <string name="tvSignIn">Sign In</string>
+    <string name="etUserRegister">User</string>
+    <string name="etFirtsNameRegister">First Name</string>
+    <string name="etLastNameRegister">Last Name</string>
+    <string name="btnSignInRegister">Sign In</string>
+    <string name="btnCleanRegister">Clean</string>
+    <string name="tvGoToLoginRegister">Do you have an account? Log in here.</string>
+    <string name="etPasswordRepRegister">Repeat password</string>
+    <string name="etPasswordRegister">Password</string>
+    <string name="tvUser">Welcome</string>
+</resources>

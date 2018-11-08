@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginUsuario</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+
+
+    <string name="llamar">Llamar</string>
+    <string name="web">Web</string>
+    <string name="camara">Camara</string>
+    <string name="contacto">Contacto</string>
+
+</resources>

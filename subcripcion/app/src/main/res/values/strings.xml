@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">subcripcion</string>
+    <string name="rut">Rut</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="inacap">inacap</string>
+</resources>

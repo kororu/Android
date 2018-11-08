@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dates</string>
+    <string name="aceptar">To accept</string>
+    <string name="naciste">You were born the day </string>
+    <string name="laFechaIngresada">The entered date must be greater than the current one </string>
+    <string name="ElFormatoDebeSer">The format must be Day / Month / Year </string>
+    <string name="UstedTiene"> You have </string>
+    <string name="Anos"> years </string>
+    <string name="Meses"> months </string>
+    <string name="Dias"> days. </string>
+    <string name="Tienes">You have </string>
+    <string name="AnosY"> years and </string>
+</resources>

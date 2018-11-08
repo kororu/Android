@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="btnGuardarNuevaTarea">Guardar</string>
+    <string name="btnNuevaTarea">Nueva</string>
+    <string name="etDetalleTarea">Ingrese detalle de tarea</string>
+    <string name="errorDetalleTareaEmpty">La tarea no puede estar vacía!</string>
+    <string name="idTarea">x</string>
+    <string name="btnVolverTarea">Volver</string>
+    <string name="btnGuardarCambiosTarea">Guardar</string>
+    <string name="TareaEliminada">Se ha eliminado la tarea</string>
+    <string name="tvLabelFechaIni">Inicio</string>
+    <string name="tvLabelFechaFin">Fin</string>
+    <string name="chbTerminarTarea">Terminar</string>
+</resources>

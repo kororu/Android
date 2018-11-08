@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Team management
+</string>
+    <string name="etLoginUsuarioHint">User</string>
+    <string name="etLoginClaveHint">Key</string>
+    <string name="btnLoginIngresar">Enter</string>
+    <string name="btnLoginCancelar">Cancel</string>
+    <string name="tvIngreso">Entry</string>
+    <string name="ErrorUsuarioNoExiste">Username does not exist
+</string>
+    <string name="ErrorClaveIncorrecta">The key is incorrect
+</string>
+    <string name="ErrorUsuarioVacio">Enter a User
+</string>
+    <string name="ErrorClaveVacia">Enter a Password
+</string>
+    <string name="tvNombreUsuario">Username</string>
+    <string name="tvDptoUsuario">User Dept
+</string>
+    <string name="tvTituloLista">Teams in charge:
+</string>
+    <string name="btnFinalizar">Finalize</string>
+    <string name="tvEtqDescEquipo">Description:</string>
+    <string name="tvEtqValorEquipo">Value:</string>
+    <string name="autoTvNroSerieHint">Enter Equipment Serial No.
+</string>
+    <string name="btnCargarEquipo">Add
+</string>
+    <string name="btnDescargarEquipo">Remove</string>
+    <string name="tvEtiquetaTotal">Total:</string>
+    <string name="autoTvSerieErrorNoExiste">The Team series does not exist
+</string>
+    <string name="autoTvSerieErrorYaAsignado">The Team is already assigned to a User
+</string>
+</resources>
