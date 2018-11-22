@@ -83,11 +83,10 @@
         android:id="@+id/tvLabelFechaIni"
         android:layout_width="wrap_content"
         android:layout_height="28dp"
-        android:layout_marginStart="28dp"
         android:text="@string/tvLabelFechaIni"
         android:textSize="18sp"
-        app:layout_constraintBaseline_toBaselineOf="@+id/dtFechaInicioTarea"
-        app:layout_constraintStart_toStartOf="parent" />
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="47dp" />
 
     <TextView
         android:id="@+id/tvLabelFechaFin"

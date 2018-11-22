@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">agenda_tareas</string>
+    <string name="ErrorUsuarioVacio">Ingrese un Usuario</string>
+    <string name="ErrorClaveVacia">Ingrese una Clave</string>
+    <string name="ErrorUsuarioNoExiste">El usuario no existe</string>
+    <string name="ErrorClaveErrada">El Clave no es valida</string>
+
+</resources>

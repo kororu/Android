@@ -5,6 +5,7 @@ public class Usuario {
     public String Usuario, Nombre, Apellido;
     public int Clave;
 
+
     public String getNombre() {
         return Nombre;
     }
